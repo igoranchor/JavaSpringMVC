@@ -1,4 +1,4 @@
-package ru.igoranchor.springcourse;
+package ru.igoranchor.springcourse.controllers;
 
 import org.springframework.stereotype.Controller;
 import org.springframework.web.bind.annotation.GetMapping;
